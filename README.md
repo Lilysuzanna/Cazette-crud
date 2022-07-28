@@ -1,0 +1,2 @@
+# Cazette-crud
+django crud
